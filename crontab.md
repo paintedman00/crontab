@@ -116,17 +116,3 @@ sudo crontab -u username -e
 - **Check cron logs:** Cron logs can usually be found in `/var/log/cron` or `/var/log/syslog`.
 - **Ensure cron service is running:** Use `systemctl status cron` or `service cron status`.
 
-## Contributing
-
-Contributions are welcome! Please fork this repository and submit a pull request if you have any improvements or additional examples to share.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Author
-
-[paintedman00](https://github.com/paintedman00)
-
-Feel free to reach out if you have any questions or suggestions!
-
